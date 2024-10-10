@@ -1,7 +1,7 @@
 <h1 align="left">Salut 👋, je m'appelle Pierre Arthur</h1>
 <h3 align="left">Je suis étudiant à Epitech en formation Msc Pro et serais ravi de travailler avec vous !</h3>
 
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+<img align="right" alt="Coding" width="125" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 <p>
   🔭 Je m'intéresse au <strong>Machine learning et son application dans différents cas d'utilisation</strong><br>
