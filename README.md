@@ -57,6 +57,6 @@
   <img align="left" alt="Coding" width="200" src="https://github.com/TeraLmec/projects_recs/blob/main/space_shooter_gif.gif?raw=true"><br clear="both">
   
   <h3><strong>Quick & Fit : App de gym avec chatbot</strong></h3>
-  <img align="left" alt="Coding" width="200" src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp1_gif.gif?raw=true">
-  <img align="left" alt="Coding" width="200" src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp2_gif.gif?raw=true"><br clear="both">
+  <img align="left" alt="Coding" width="150" src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp1_gif.gif?raw=true">
+  <img align="left" alt="Coding" width="150" src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp2_gif.gif?raw=true"><br clear="both">
 </p>
