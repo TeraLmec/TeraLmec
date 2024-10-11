@@ -53,3 +53,25 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a> 
 </p>
+
+<h3 align="left">Mes projets :</h3>
+<p align="left">
+  <strong>Projet 1: Titre du projet</strong><br>
+<img align="right" alt="Coding" width="350" src="https://github.com/TeraLmec/projects_recs/blob/main/pong_gif.gif?raw=true">
+  
+  <strong>Projet 2: Titre du projet</strong><br>
+  <video width="400" controls>
+    <source src="https://github.com/yourrepo/path-to-video3-1.mp4" type="video/mp4">
+    Votre navigateur ne supporte pas la lecture vidéo.
+  </video><br>
+  
+  <strong>Projet 3: Titre du projet</strong><br>
+  <video width="400" controls>
+    <source src="https://github.com/yourrepo/path-to-video3-1.mp4" type="video/mp4">
+    Votre navigateur ne supporte pas la lecture vidéo.
+  </video><br>
+  <video width="400" controls>
+    <source src="https://github.com/yourrepo/path-to-video3-1.mp4" type="video/mp4">
+    Votre navigateur ne supporte pas la lecture vidéo.
+  </video><br>
+</p>
