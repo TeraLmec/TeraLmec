@@ -1,7 +1,10 @@
 <h1 align="left">Salut 👋, je m'appelle Pierre Arthur</h1>
 <h3 align="left">Je suis étudiant à Epitech en formation Msc Pro et je serais ravi de travailler avec vous !</h3>
 
-<img align="right" alt="Coding" width="125" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+<video autoplay loop muted playsinline width="125" align="right">
+  <source src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <p align="left">
   🔭 Je m'intéresse au <strong>Machine learning et son application dans différents cas d'utilisation</strong><br>
@@ -57,12 +60,24 @@
 <h3 align="left">Mes projets :</h3>
 <p align="left">
   <strong>Pong :</strong><br>
-  <img align="left" alt="Coding" width="250" src="https://github.com/TeraLmec/projects_recs/blob/main/pong_gif.gif?raw=true"><br clear="both">
+  <video autoplay loop muted playsinline width="200" align="left">
+    <source src="https://github.com/TeraLmec/projects_recs/blob/main/pong_gif.gif?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video><br clear="both">
   
   <strong>Space Shooter :</strong><br>
-  <img align="left" alt="Coding" width="250" src="https://github.com/TeraLmec/projects_recs/blob/main/space_shooter_gif.gif?raw=true"><br clear="both">
+  <video autoplay loop muted playsinline width="200" align="left">
+    <source src="https://github.com/TeraLmec/projects_recs/blob/main/space_shooter_gif.gif?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video><br clear="both">
   
   <strong>Projet 3: Titre du projet</strong><br>
-  <img align="left" alt="Coding" width="250" src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp1_gif.gif?raw=true">
-  <img align="left" alt="Coding" width="250" src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp2_gif.gif?raw=true"><br clear="both">
+  <video autoplay loop muted playsinline width="200" align="left">
+    <source src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp1_gif.gif?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <video autoplay loop muted playsinline width="200" align="left">
+    <source src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp2_gif.gif?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video><br clear="both">
 </p>
