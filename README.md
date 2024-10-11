@@ -50,13 +50,13 @@
 <p align="left">
   <h3><strong>Pong :</strong></h3><br>
   <p>Un "player vs ia" , il m'a aidé dans la compréhension de l'intéraction entre classe ( lien entre la balle et le paddle adverse, motion blur de la balle)</p>
-  <img align="left" alt="Coding" width="200" src="https://github.com/TeraLmec/projects_recs/blob/main/pong_gif.gif?raw=true"><br clear="both">
+  <img align="left" alt="Coding" width="220" src="https://github.com/TeraLmec/projects_recs/blob/main/pong_gif.gif?raw=true"><br clear="both">
   
   <h3><strong>Space Shooter :</strong></h3><br>
   <p></p>
-  <img align="left" alt="Coding" width="200" src="https://github.com/TeraLmec/projects_recs/blob/main/space_shooter_gif.gif?raw=true"><br clear="both">
+  <img align="left" alt="Coding" width="220" src="https://github.com/TeraLmec/projects_recs/blob/main/space_shooter_gif.gif?raw=true"><br clear="both">
   
   <h3><strong>Quick & Fit : App de gym avec chatbot</strong></h3>
-  <img align="left" alt="Coding" width="150" src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp1_gif.gif?raw=true">
-  <img align="left" alt="Coding" width="150" src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp2_gif.gif?raw=true"><br clear="both">
+  <img align="left" alt="Coding" width="170" src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp1_gif.gif?raw=true">
+  <img align="left" alt="Coding" width="170" src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp2_gif.gif?raw=true"><br clear="both">
 </p>
