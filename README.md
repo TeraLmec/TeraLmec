@@ -48,15 +48,27 @@
 
 <h2 align="left">Mes projets : <strong>Appuyez pour play</strong></h2>
 <p align="left">
-  <h3><strong>Pong :</strong></h3><br>
+  <h3>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+    <strong>Pong :</strong>
+  </h3>
   <p>Un "player vs ia" , il m'a aidé dans la compréhension de l'intéraction entre classe ( lien entre la balle et le paddle adverse, motion blur de la balle)</p>
   <img align="left" alt="Coding" width="220" src="https://github.com/TeraLmec/projects_recs/blob/main/pong_gif.gif?raw=true"><br clear="both">
   
-  <h3><strong>Space Shooter :</strong></h3><br>
-  <p></p>
+  <h3>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+    <strong>Space Shooter :</strong>
+  </h3>
+  <p>Mon premier jeu python, m'a fait découvrir la création de jeu 2D te de principe de boucle de jeu et update</p>
   <img align="left" alt="Coding" width="220" src="https://github.com/TeraLmec/projects_recs/blob/main/space_shooter_gif.gif?raw=true"><br clear="both">
   
-  <h3><strong>Quick & Fit : App de gym avec chatbot</strong></h3>
+  <h3>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
+    <strong>Quick & Fit : App de gym avec chatbot</strong>
+  </h3>
+  <p>App qui m'a permis d'apprendre l'utilisation de l'api de GPT 3.5, et des requêtes</p>
   <img align="left" alt="Coding" width="170" src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp1_gif.gif?raw=true">
   <img align="left" alt="Coding" width="170" src="https://github.com/TeraLmec/projects_recs/blob/main/gymapp2_gif.gif?raw=true"><br clear="both">
 </p>
