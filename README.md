@@ -53,6 +53,12 @@
     <strong>Pong :</strong>
   </h3>
   <p>Un "player vs ia" , il m'a aidé dans la compréhension de l'intéraction entre classe ( lien entre la balle et le paddle adverse, motion blur de la balle)</p>
+  
+
+https://github.com/user-attachments/assets/d3aef23a-3544-470e-b919-cfce9217caa8
+
+
+
   <img align="left" alt="Coding" width="220" src="https://github.com/TeraLmec/projects_recs/blob/main/pong_gif.gif?raw=true"><br clear="both">
   
   <h3>
