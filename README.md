@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, Pierre Arthur here</h1>
-<h2 align="left">Im a Software Engineer Epitech student and im looking for an job, i'll be glad to work with you!</h2>
+<h2 align="left">Im a Software Engineer Epitech student and im looking for a job, i'll be glad to work with you!</h2>
 
 <img align="right" alt="Coding" width="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
